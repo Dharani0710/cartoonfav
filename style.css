@@ -1,0 +1,53 @@
+*{
+    text-align: center;
+}
+
+#home{
+    background-color:black;
+    color: white;
+
+    padding: 5px;
+    margin: 5px;
+}
+#shinchan{
+    background-color: cornflowerblue;
+    color: black;
+    font-size: 20px;
+    padding: 5px;
+    margin: 5px;
+    border: 5px white;
+}
+h1{
+    font-size: 80px;
+}
+img{
+    overflow-clip-margin: content-box;
+    overflow: clip;
+    margin: 5px white;
+}
+#ben{
+    background-color: chartreuse;
+    color: cornsilk;
+    padding: 5px;
+    margin: 5px;
+
+}
+#naruto{
+    background-color: black;
+    color: cornsilk;
+    padding: 5px;
+    margin: 5px;
+}
+.nav{
+    background-color: black;
+
+    
+    font-size: 30px;
+
+}
+#nave{
+    color: white;
+    justify-content: space-evenly;
+    font-size: larger;
+    text-decoration: none;
+}
